@@ -1,4 +1,3 @@
 # test_exam_JWD
-Тестовое задание для Junior Web Developer Vape Zone
+Тестовое задание для Junior Web Developer
 
-## Читайте внимательно ТЗ в архиве)
